@@ -1,1 +1,0 @@
-# Inventory-and-Billing-Management-project
